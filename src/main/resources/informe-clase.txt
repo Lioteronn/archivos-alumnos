@@ -1,0 +1,3 @@
+Numero de estudiantes: 20
+Edad media de la clase: 25
+Nota media de la clase: 7.910001

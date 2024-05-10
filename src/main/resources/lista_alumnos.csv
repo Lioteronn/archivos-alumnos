@@ -1,0 +1,25 @@
+nombre,apellido,sexo,edad,nota_media
+Juan,González,M,25,8.5
+María,López,F,22,7.9
+Carlos,Martínez,M,28,6.2
+Laura,Rodríguez,F,24,8.9
+David,Fernández,M,26,7.3
+Ana,García,F,23,9.1
+Pedro,Ruiz,M,27,6.8
+Sofía,Hernández,F,25,8.0
+Miguel,Díaz,M,29,7.5
+Elena,Moreno,F,26,9.3
+Javier,Pérez,M,24,6.5
+Carmen,Sánchez,F,21,8.7
+Alejandro,Gómez,M,30,7.0
+Paula,Martín,F,22,8.2
+Mario,Jiménez,M,29,6.9
+Isabel,Romero,F,27,8.4
+Francisco,Ruíz,M,23,7.8
+Luisa,Alvarez,F,28,9.0
+Ricardo,Navarro,M,26,7.6
+Beatriz,Torres,F,24,8.6
+
+Numero de estudiantes: 20
+Edad media de la clase: 25
+Nota media de la clase: 7.910001
